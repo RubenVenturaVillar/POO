@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="135541f9-dc49-414c-b55b-24d3fce3719d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/asdf.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OtraPrueba.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <workItem from="1586132873468" duration="4035000" />
       <workItem from="1586291465479" duration="864000" />
       <workItem from="1586354530638" duration="1481000" />
-      <workItem from="1586364223943" duration="209000" />
+      <workItem from="1586364223943" duration="279000" />
     </task>
     <servers />
   </component>
