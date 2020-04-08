@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="135541f9-dc49-414c-b55b-24d3fce3719d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OtraPrueba.java" afterDir="false" />
+    <list default="true" id="135541f9-dc49-414c-b55b-24d3fce3719d" name="Default Changelist" comment="Vamos a hacer un commit desde IntelliJ">
+      <change beforePath="$PROJECT_DIR$/src/OtraPrueba.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +75,24 @@
       <workItem from="1586132873468" duration="4035000" />
       <workItem from="1586291465479" duration="864000" />
       <workItem from="1586354530638" duration="1481000" />
-      <workItem from="1586364223943" duration="279000" />
+      <workItem from="1586364223943" duration="451000" />
     </task>
+    <task id="LOCAL-00001" summary="Vamos a hacer un commit desde IntelliJ">
+      <created>1586364533739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586364533740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vamos a hacer un commit desde IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vamos a hacer un commit desde IntelliJ" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="94" key="#Notifications" timestamp="1586292343483">
